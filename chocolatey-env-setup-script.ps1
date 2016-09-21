@@ -26,12 +26,14 @@ choco install 1password
 choco install 7zip
 choco install atom
 choco install autohotkey
+choco install battle.net
 choco install deluge
 choco install discord
 choco install dropbox
 choco install filezilla
 choco install goggalaxy
 choco install googlechrome
+choco install origin
 choco install putty
 choco install skype
 choco install spotify
