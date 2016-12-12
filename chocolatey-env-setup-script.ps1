@@ -33,6 +33,7 @@ choco install dropbox
 choco install filezilla
 choco install goggalaxy
 choco install googlechrome
+choco install handbrake
 choco install origin
 choco install putty
 choco install skype
